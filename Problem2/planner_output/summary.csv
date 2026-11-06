@@ -1,0 +1,5 @@
+Scenario,Configuration,Plan length,Total actions,States expanded,Search time (s),Total time (s)
+Base scenario,Satisficing (GBFS + FF),30,30,51,0.001,0.0042
+Base scenario,Optimal (A* + iPDB),25,25,1930,0.0059,1.1225
+Extended scenario,Satisficing (GBFS + FF),51,51,79,0.0014,0.0036
+Extended scenario,Optimal (A* + iPDB),40,40,868407,1.9373,4.3092
